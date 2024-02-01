@@ -1,7 +1,5 @@
 # CodeType
 
-# 테스트 내용 추가
-
 ## 구상
 - speed codetype
     - 모나코 에디터를사용해 미리 작성된 코드를 따라쳐 작성시간, 정확도, wpm에 따라 랭킹을 매긴다. 언어는 기본적으로(c, c++, c#, python, java, java script, php, html, css등등)을 기준으로 추가할 예정이다.
