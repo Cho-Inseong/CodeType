@@ -2,13 +2,13 @@
 
 ## 구상
 <!-- 사용자가 탭 이름만 보고 무엇인지 알 수 있도록 직관적이게 바꿀 것 -->
-- speed codetype
+- mccode typing
     - 모나코 에디터를 사용해 미리 작성된 코드를 따라쳐 작성시간, 정확도, wpm에 따라 랭킹을 매긴다. 언어는 기본적으로(c, c++, c#, python, java, javascript, php, html, css등등)을 기준으로 추가할 예정이다.
     
- - typing practice
+ - language typing
     - 일반적인 타자시스템, CodeType에서 모든 타자연습을 할 수 있도록 만들기 위해서. 영어 한국어를 기본언어로 개발한다.
 
- - typing code
+ - code typing
     - 위의 speed code와는 다르게 모나코 에디터를 사용하지 않고 일반적인 타자연습에 코드를 입힌것. 언어는 물론 speed code와 같다.
 
 ## 메인페이지
